@@ -2,8 +2,6 @@
 
 ## What is Nginx?
 
-## Concept Explanation
-
 **Simple Terms:**
 Nginx (pronounced "Engine-X") is software that handles web traffic. Think of it as a smart traffic controller for the internet. When someone visits your website, Nginx decides what to do with that request - serve a file directly, pass it to an application server, or distribute it across multiple servers.
 
